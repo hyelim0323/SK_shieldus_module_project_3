@@ -25,7 +25,7 @@
 
 
 ## Models
-    - 모델학습/ 참조
+    모델학습/ 참조
 
 ### reference
     - kobert
@@ -34,7 +34,7 @@
     - https://heegyukim.medium.com/korean-smilestyle-dataset%EC%9C%BC%EB%A1%9C-%EB%AC%B8%EC%B2%B4-%EC%8A%A4%ED%83%80%EC%9D%BC%EC%9D%84-%EB%B0%94%EA%BE%B8%EB%8A%94-%EB%AA%A8%EB%8D%B8-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0-d15d32a2c303
 
 ## 구현한 코드
-    - 시스템 기능/전체시스템구현_tf.ipynb
+    시스템 기능/전체시스템구현_tf.ipynb
 
 ### 차후 목표
     - Colab 기본을 개발환경으로 이용 ->  RAM과 런타임 시간 한계
