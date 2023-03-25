@@ -4,8 +4,8 @@
     - 챗봇 모델의 공감성을 강화하기 위해 트랜스포머 기반의 다중 분류 모델로 구현한 감정 분류 매커니즘을 추가하고 텍스트와 함께 사용자의 감정을 표현할 수 있는 이미지를 함께 답변함으로써 공감능력을 강화하고 재미를 더해 사용자의 만족도를 높인다.
 
 ## 시스템 흐름도
-    ![시스템기능1](https://user-images.githubusercontent.com/72790897/227712123-d27a035a-e1cd-4be2-84da-9c2b3405a36b.png)
-    ![시스템기능2](https://user-images.githubusercontent.com/72790897/227712131-a80f4f9c-4e46-423b-adc3-77e602b4fa22.png)
+<img width="80%" src="https://user-images.githubusercontent.com/72790897/227712123-d27a035a-e1cd-4be2-84da-9c2b3405a36b.png"/>
+<img width="80%" src="https://user-images.githubusercontent.com/72790897/227712131-a80f4f9c-4e46-423b-adc3-77e602b4fa22.png"/>
 
 ## Data
 ### reference
