@@ -43,5 +43,6 @@
     - 더 나은 환경이 주어진다면 챗봇은 gpt3, 감정분류모델은 koelectra 등 더 좋은 모델 학습을 해보고 싶음
     - 최종적으로 서비스화한다면 앱을 생각함
 
-
+## 웹 구현
+https://github.com/hyelim0323/SK_shieldus_module_project_4
 
